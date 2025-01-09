@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=LeumasCoded&style=flat-square&color=blue" align="center" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" width="600" height="300"/>
 </div>  
 
 ---  
