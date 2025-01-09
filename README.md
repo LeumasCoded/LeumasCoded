@@ -2,16 +2,13 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdneHFzc2d0bGhwOXR4ajk2YWhsdjZhOWQ0N3VjYjUxZWhyNmN3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>  
-
+<!--
 <div align="center" id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>  
-
+-->
 <img src="https://komarev.com/ghpvc/?username=LeumasCoded&style=flat-square&color=blue" align="center" alt=""/>
 
 <div align="center">
@@ -46,13 +43,11 @@ I am Samuel, a Computer Science major at the University of Southern Mississippi,
 - **Specialization**: Data Science, Software Engineering
 
   ---
-
+<!--
 ### :fire: My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeumasCoded&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeumasCoded&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----  
-
+-->
 ### :mailbox: Let's Connect!  
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/samuel-ifeadi-449974278/)  
  
