@@ -4,12 +4,12 @@
 </div>  
 
 <img src="https://komarev.com/ghpvc/?username=LeumasCoded&style=flat-square&color=blue" align="center" alt=""/>
-
+<!--
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFsN3cwNGpob2RiaDQ2ejFmZzRmM214dGFjNG85ZTF2cjNmZW5vaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" height="300"/>
 </div>  
+-->
 
----  
 
 ### :man_technologist: About Me :  
 I am **Samuel**, a Computer Science major at the University of Southern Mississippi, with a minor in Economic Data Analysis. I’m passionate about **machine learning**, **artificial intelligence**, and **data-driven solutions** for real-world challenges. 🌍  
