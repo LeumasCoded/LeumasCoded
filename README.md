@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hi, I'm Samuel 👋  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>  
@@ -35,10 +35,13 @@ I’m passionate about solving real problems with data and continuously expandin
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </div>
 
-- **Programming Languages**: Python, C++  
+
+🛠 Tech Stack:
+- **Programming Languages**: Python, C++, TypeScript, HTML, CSS
 - **Libraries & Frameworks**: NumPy, Scikit-learn, Pandas, Matplotlib, Seaborn  
+- **Databases**: SQL, MySQL
+- **Specialization**: Data Science, Machine Learning, Software Engineering
 - **Tools**: Git, Jupyter Notebook, SQL Server, Tableau  
-- **Specialization**: Data Science, Machine Learning, Software Engineering  
 
 ---  
 
