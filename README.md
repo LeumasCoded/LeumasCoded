@@ -44,3 +44,4 @@ I’m passionate about solving real problems with data and continuously expandin
 
 ### :mailbox: Let's Connect!  
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ifeadi-449974278/)  
+- samuelifeadi25@gmail.com
