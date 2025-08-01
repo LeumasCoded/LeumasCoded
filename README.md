@@ -12,7 +12,11 @@
 
 
 ### :man_technologist: About Me :  
-I am **Samuel**, a Computer Science major at the University of Southern Mississippi, with a minor in Economic Data Analysis. I’m passionate about **machine learning**, **artificial intelligence**, and **data-driven solutions** for real-world challenges. 🌍  
+I am **Samuel**, a Computer Science major at the University of Southern Mississippi, with a minor in Economic Data Analysis. I’m passionate about **machine learning**, **artificial intelligence**, and **data-driven solutions** for real-world challenges.
+
+I specialize in building machine learning models, analyzing complex datasets, and translating insights into real-world impact. With hands-on experience from multiple internships and research roles, I’ve developed and deployed predictive models, automated analytics workflows, and delivered presentations to technical and non-technical audiences. 
+
+I’m passionate about solving real problems with data and continuously expanding my skills in AI, automation, and data-driven decision-making. Always curious. Always building.🌍  
 
 - 🎓 **3.95 GPA**, reflecting my dedication to academic excellence.  
 - 🏢 **Resident Assistant**, promoting community and leadership on campus.  
